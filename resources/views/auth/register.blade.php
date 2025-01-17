@@ -17,6 +17,7 @@
               </svg>
             </a>
             <h2 class="my-3">Register</h2>
+            
           </div>
           
           <div class="form-row">
