@@ -63,7 +63,7 @@
             color: #f8f9fa;
             text-decoration: underline;
         }
-    </style>
+    </style> 
 </head>
 <body>
     <div class="login-container">
